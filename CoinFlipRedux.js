@@ -33,3 +33,7 @@ function coinFlipRedux() {
 
 
 }
+
+
+//run app
+//coinFlipRedux();

@@ -44,3 +44,7 @@ function coinFlip() {
 
 
 }
+
+
+//run app
+//coinFlip();

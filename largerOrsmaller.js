@@ -17,3 +17,7 @@ function displayLarger(num1, num2) {
 
 
 }
+
+
+//call function
+//displayLarger();

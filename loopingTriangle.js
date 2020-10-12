@@ -22,3 +22,6 @@ function printTriangle() {
 
 
 }
+
+//call function
+//printTriangle();

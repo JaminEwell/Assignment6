@@ -13,3 +13,6 @@ function countDown(num) {
 
 
 }
+
+//call function
+//countDown();

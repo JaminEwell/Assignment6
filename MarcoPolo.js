@@ -27,3 +27,7 @@ function marcoPolo() {
         count++;
     }
 }
+
+
+//call function/ run app
+//marcoPolo();
